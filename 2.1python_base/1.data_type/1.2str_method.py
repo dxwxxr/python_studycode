@@ -88,11 +88,10 @@ print(str6)
 # #25.检测字符串中的字母是否全由大写字母组成。（字符串中可包含非字母字符）
 # str25=str.isupper()
 # print(str25)
-'''判断字母数字'''
 # #26.判断str是否是有效的标识符。
 # str26=str.isidentifier()
 # print(str26)
-# '''字母数字'''
+'''字母数字'''
 # #27.检测字符串是否只由字母和数字组成。
 # str27=str0.isalnum()
 # print(str27)
